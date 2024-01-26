@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+}
+
+header {
+  background-color: #333;
+  padding: 10px 0;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+  transition: background-color 0.7s ease;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  color: #fff;
+  font-size: 20px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  transition: color 0.3s ease;
+}
+
+#content {
+  padding-top: 60px;
+}
+
+section {
+  padding: 50px 0;
+  text-align: center;
+}
+
+
+.scrolled {
+  background-color: #555; 
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); 
+  animation: slideDown 0.5s ease; 
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
