@@ -15,4 +15,8 @@ r based on the user's scroll position. Implement animations, such as sliding or 
 Output:-
 ![image1](https://github.com/anuraghaldey/Advanced-Web-Technology-Laboratory-Lab-Assignments-/assets/113175706/ea1c8999-839a-4e4e-abba-9d53bcdc9d1f)
 
+3.Create a task management application with drag-and-drop functionality. Users can move tasks between different boards (e.g., To Do, In Progress, Done) using drag-and-drop interactions. Implement persistence using local storage.
+Output:-
+![Screenshot (121)](https://github.com/anuraghaldey/Advanced-Web-Technology-Laboratory-Lab-Assignments-/assets/113175706/b26d4d0e-a878-453b-9338-f63c051d80e3)
+
 
