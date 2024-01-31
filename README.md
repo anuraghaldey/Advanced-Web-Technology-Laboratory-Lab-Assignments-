@@ -19,4 +19,8 @@ Output:-
 Output:-
 ![Screenshot (121)](https://github.com/anuraghaldey/Advanced-Web-Technology-Laboratory-Lab-Assignments-/assets/113175706/b26d4d0e-a878-453b-9338-f63c051d80e3)
 
+4.Develop a web application in PHP using various concepts of object-oriented programming like Class, Object, Inheritance, Function, Overloading, Constructor, and Destructor.
+Output:-![Screenshot (125)](https://github.com/anuraghaldey/Advanced-Web-Technology-Laboratory-Lab-Assignments-/assets/113175706/914b7d02-5e6d-43cd-ac48-959996105e98)
+
+
 
