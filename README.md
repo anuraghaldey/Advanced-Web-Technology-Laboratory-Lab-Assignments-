@@ -22,5 +22,24 @@ Output:-
 4.Develop a web application in PHP using various concepts of object-oriented programming like Class, Object, Inheritance, Function, Overloading, Constructor, and Destructor.
 Output:-![Screenshot (125)](https://github.com/anuraghaldey/Advanced-Web-Technology-Laboratory-Lab-Assignments-/assets/113175706/914b7d02-5e6d-43cd-ac48-959996105e98)
 
+6.Develop a web scraper to mine structured data from any website according to a given application.
+Output:-<img width="463" alt="6thlab" src="https://github.com/anuraghaldey/Advanced-Web-Technology-Laboratory-Lab-Assignments-Sem6/assets/113175706/dd9d8162-895b-4942-b901-aa2ebbcd57e4">
+
+7.Build a real-time search engine that allows users to search for content (e.g., articles, products) as they type. Fetch search results from a backend API using
+AJAX requests. Display search suggestions and results dynamically.
+Output:-
+1.<img width="452" alt="7(1)" src="https://github.com/anuraghaldey/Advanced-Web-Technology-Laboratory-Lab-Assignments-Sem6/assets/113175706/3301d0e5-c03d-4572-b43c-de13643b0b18">
+2.<img width="453" alt="7(2nd)" src="https://github.com/anuraghaldey/Advanced-Web-Technology-Laboratory-Lab-Assignments-Sem6/assets/113175706/10784ff6-c284-4cab-ba6a-d68f08e7e90c">
+
+8. Create a personal portfolio website using Bootstrap. Design and implement sections for your bio, skills, projects, and contact information. Utilize Bootstrap components for navigation bars, modals (for project details), and responsive grid layout.
+Output:-
+1.<img width="451" alt="8(1st)" src="https://github.com/anuraghaldey/Advanced-Web-Technology-Laboratory-Lab-Assignments-Sem6/assets/113175706/5274bf97-7684-42c3-b889-c44c967d2582">
+2.<img width="452" alt="8(2nd)" src="https://github.com/anuraghaldey/Advanced-Web-Technology-Laboratory-Lab-Assignments-Sem6/assets/113175706/354609d7-fc9c-4a21-843b-3b3e1bc8288a">
+
+9. Use Bootstrap for styling and React for the front end to create a task management application. Users should have a smooth and attractive user experience when adding, removing, and marking jobs as finished using the app.
+Output:-<img width="515" alt="9" src="https://github.com/anuraghaldey/Advanced-Web-Technology-Laboratory-Lab-Assignments-Sem6/assets/113175706/68bf4a77-49f3-4c86-92c5-6f6fe049168d">
+
+11. Convert an existing static website to a responsive one using Bootstrap.
+Output:-![11](https://github.com/anuraghaldey/Advanced-Web-Technology-Laboratory-Lab-Assignments-Sem6/assets/113175706/8949f749-390a-4fbf-9bcb-29b6c1175aeb)
 
 
